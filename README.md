@@ -1,1 +1,1 @@
-# interpretable-ml-implementation
+# Implementation of iterpretable machine learning book
