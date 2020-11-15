@@ -1,0 +1,5 @@
+datasets/bike_rental/*
+!datasets/bike_rental/.keep
+
+.ipynb_checkpoints
+general/__pycache__/*
