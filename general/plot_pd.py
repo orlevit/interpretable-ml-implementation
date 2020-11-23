@@ -30,6 +30,6 @@ def plot_3d_pd(model, df, features, features_comb, grid_resolution=20,azim=120,f
     ax3d.view_init(elev=22, azim=azim)
     plt.colorbar(surf)
     plt.suptitle('Partial dependence of bike sales\n'
-                'on temapture and humidity, with Gradient Boosting')
+                'on temapture, humidity and wind speed')
     plt.subplots_adjust(top=0.9)
 
